@@ -103,7 +103,7 @@ PRODUCTIVITY-TRACKER/
 
 cd productivity-tracker
 
-git clone
+git clone https://github.com/SravanthiChouturi/CHROME-EXTENSION-FOR-PRODUCTIVITY-MANAGEMENT.git
 
 
 2. Setup the Backend Server
